@@ -24,15 +24,19 @@ body {
   }
   
   header {
-    background-image: url('https://image.freepik.com/vetores-gratis/fundo-do-conceito-da-tecnologia-verde-do-cyber-da-seta-verde_42077-576.jpg');
-    background-size: cover;
-    height: 80px;
+    background-image: url('./img/94170.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100px;
     border-radius: 5px;
+    /* Designed by rawpixel.com / Freepik" */
   }
-  /*   imagem azul: 
-  https://www.placelogistics.com/wp-content/uploads/2019/06/pecas-de-reposicao-tecnologia-logistica-importacao-e-exportacao.jpg
-   imagem verde binária: https://thumbs.dreamstime.com/b/escuro-fundo-da-tecnologia-de-circuito-do-sum%C3%A1rio-luz-cor-verde-101042654.jpg
+  /*  
+  imagem azul: https://www.placelogistics.com/wp-content/uploads/2019/06/pecas-de-reposicao-tecnologia-logistica-importacao-e-exportacao.jpg
   
+  imagem verde binária: https://thumbs.dreamstime.com/b/escuro-fundo-da-tecnologia-de-circuito-do-sum%C3%A1rio-luz-cor-verde-101042654.jpg
+
+  imagem setas: https://image.freepik.com/vetores-gratis/fundo-do-conceito-da-tecnologia-verde-do-cyber-da-seta-verde_42077-576.jpg
   
   */
   

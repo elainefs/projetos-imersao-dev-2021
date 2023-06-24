@@ -98,16 +98,6 @@
  
 </details>
 
-<details>
-<summary>Super Trunfo</summary>
- 
- [Ver Código](https://github.com/elainefs/projetos-imersao-dev-2021/tree/main/Imers%C3%A3oDev%20Aula%207%20-%20Super%20Trunfo_%20L%C3%B3gica%20de%20Jogo)
-
-![Super Trunfo](https://raw.githubusercontent.com/elainefs/projetos-imersao-dev-2021/main/Imers%C3%A3oDev%20Aula%207%20-%20Super%20Trunfo_%20L%C3%B3gica%20de%20Jogo/super-trunfo.png
-)
- 
-</details>
-
 ## ⚒️ Tools
 ### Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

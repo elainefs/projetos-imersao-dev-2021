@@ -98,15 +98,16 @@
  
 </details>
 
-## ⚒️ Tools
-### Technologies
+## ⚒️ Tecnologias
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📄 License
+## 📄 Licença
 
-This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/projetos-imersao-dev-2021/blob/main/LICENSE) file for more details.
+Este projeto está sob a licença do MIT. Consulte o arquivo [LICENSE](https://github.com/elainefs/projetos-imersao-dev-2021/blob/main/LICENSE) para obter mais detalhes.
+
 <hr>
 
 Made with ❤️ by [Elaine Ferreira](https://github.com/elainefs)
